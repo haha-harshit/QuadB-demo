@@ -1,1 +1,6 @@
+# this contains files/folders which are not to be pushed on git/github #
+
+# files not to be pushed --> 'node_modules', '.env' #
+
 node_modules
+.env
